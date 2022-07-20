@@ -1,14 +1,21 @@
 # JavaSpringBoot-ReactJs-Camp-Backend
 
-postgreSQL
+-postgreSQL
 
-Swagger
+-Swagger
+
+----
 
 JAVA:
 
 -OOP
+
 -Multi-Layered Architecture for Building Restful services
+
 -Spring Boot
+
 -Spring JPA/Hibernate
+
 -Spring AOP
 
+----
